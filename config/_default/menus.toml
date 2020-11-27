@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Contact"
-  url = "mailto:elikip@gmail.com"
+  url = "#contact"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
