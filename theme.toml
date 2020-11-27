@@ -1,4 +1,4 @@
-name = "Academic"
+name = "Eliyahu Kiperwasser"
 license = "MIT"
 licenselink = "https://github.com/wowchemy/starter-academic/blob/master/LICENSE.md"
 description = "Use the website builder to personalize your academic resumé with widgets and deploy with one click! Fully customize your site with themes, plugins, and language packs."
@@ -39,8 +39,8 @@ features = ["page builder", "widgets", "themes", "search", "research publication
             "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
 
 [author]
-  name = "George Cushen"
-  homepage = "https://georgecushen.com"
+  name = "Eliyahu Kiperwasser"
+  homepage = ""
 
 # If porting an existing theme
 [original]
