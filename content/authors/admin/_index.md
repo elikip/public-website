@@ -6,7 +6,7 @@ title: Eliyahu Kiperwasser
 superuser: true
 
 # Role/position
-role: NLP\ML Research Scientist
+role: Research Scientist (NLP)
 
 # Organizations/Affiliations
 organizations:
