@@ -23,10 +23,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computational Linguistics
+  - course: PhD in Computer Science
     institution: Bar-Ilan University
     year: 2019
-  - course: MSc in Computer Vision
+  - course: MSc in Computer Science
     institution: Bar-Ilan University
     year: 2014
   - course: BSc in Computer Science
