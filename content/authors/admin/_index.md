@@ -68,7 +68,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I finished my PhD degree in the [Natural Language Processing Lab](http://u.cs.biu.ac.il/~nlp/) at [Bar-Ilan University](http://cs.biu.ac.il), under the supervision of [Prof. Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/). I work as a research Scientist at [BeyondMinds](https://beyondminds.ai).
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My interests include applied Computational Linguistics and Machine Learning.
