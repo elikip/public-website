@@ -68,6 +68,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I finished my PhD degree in the [Natural Language Processing Lab](http://u.cs.biu.ac.il/~nlp/) at [Bar-Ilan University](http://cs.biu.ac.il), under the supervision of [Prof. Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/). I work as a research Scientist at [BeyondMinds](https://beyondminds.ai).
+I finished my PhD degree in the [Natural Language Processing Lab](http://u.cs.biu.ac.il/~nlp/) at [Bar-Ilan University](http://cs.biu.ac.il), under the supervision of [Prof. Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/). I work as a Research Scientist at [BeyondMinds](https://beyondminds.ai).
 
 My interests include applied Computational Linguistics and Machine Learning.
