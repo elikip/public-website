@@ -3,11 +3,11 @@
 
 title: "Easy-First Dependency Parsing with Hierarchical Tree LSTMs"
 authors: ["Eliayhu Kiperwasser", "Yoav Goldberg"]
-date: 2015-01-01T00:00:00+03:00
+date: 2016-01-01T00:00:00+03:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2015-01-01T00:00:00+03:00
+publishDate: 2016-01-01T00:00:00+03:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
