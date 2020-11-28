@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Semi-supervised Dependency Parsing using Bilexical Contextual Features from Auto-Parsed Data"
-authors: ["Eliayhu Kiperwasser, "Yoav Goldberg"]
+authors: ["Eliayhu Kiperwasser", "Yoav Goldberg"]
 date: 2015-01-01T00:00:00+03:00
 doi: ""
 
