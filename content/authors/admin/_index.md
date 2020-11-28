@@ -25,13 +25,13 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Bar-Ilan University
-    year: 2019
+    year: 
   - course: MSc in Computer Science
     institution: Bar-Ilan University
-    year: 2014
+    year: 
   - course: BSc in Computer Science
     institution: Tel-Aviv University
-    year: 2006
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
