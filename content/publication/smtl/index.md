@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://transacl.org/ojs/index.php/tacl/article/viewFile/1338/295""
+url_pdf: "https://transacl.org/ojs/index.php/tacl/article/viewFile/1338/295"
 url_code: 
 url_dataset:
 url_poster: 
