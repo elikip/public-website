@@ -24,5 +24,5 @@ preview = true
   weight = 1
 +++
 
-It is a great honor that my work is considered as one of the top ten huge developments of the last decade ([link](https://threadreaderapp.com/thread/1212727352037429248.html)).
+It is a great honor for me that my work is considered as one of the biggest developments of the last decade in NLP ([link](https://threadreaderapp.com/thread/1212727352037429248.html)).
 
