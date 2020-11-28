@@ -39,7 +39,7 @@ featured: false
 url_pdf: "http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP158.pdf"
 url_code: "https://github.com/elikip/SimpleParser.git"
 url_dataset:
-url_poster:"https://www.dropbox.com/s/r7ugw3amvh9g0qy/poster.pdf?dl=1"
+url_poster: "https://www.dropbox.com/s/r7ugw3amvh9g0qy/poster.pdf?dl=1"
 url_project:
 url_slides:
 url_source:
