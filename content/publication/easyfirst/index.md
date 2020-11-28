@@ -36,10 +36,10 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.transacl.org/ojs/index.php/tacl/article/viewFile/798/208""
-url_code: "https://github.com/elikip/htparser.git""
+url_pdf: "https://www.transacl.org/ojs/index.php/tacl/article/viewFile/798/208"
+url_code: "https://github.com/elikip/htparser.git"
 url_dataset:
-url_poster: "https://www.dropbox.com/s/uqmgj7ljvoxbaa7/EasyLSTM.pdf?dl=1""
+url_poster: "https://www.dropbox.com/s/uqmgj7ljvoxbaa7/EasyLSTM.pdf?dl=1"
 url_project:
 url_slides: "https://www.dropbox.com/s/n0jlmnxa3vbpwyh/emnlp16.pdf?dl=1"
 url_source:
