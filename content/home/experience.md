@@ -24,13 +24,7 @@ date_format = "Jan 2006"
   location = "Tel-Aviv, Israel"
   date_start = "2020-06-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """"""
 
 [[experience]]
   title = "NLP Expert / Tech Lead, VP"
