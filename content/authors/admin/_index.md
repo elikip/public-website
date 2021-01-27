@@ -6,15 +6,15 @@ title: Eliyahu Kiperwasser
 superuser: true
 
 # Role/position
-role: Research Scientist (NLP)
+role: Senior Applied Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: BeyondMinds
-  url: "https://beyondminds.ai"
+- name: eBay
+  url: "https://www.ebay.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational linguistics and applied machine learning.
 
 interests:
 - Artificial Intelligence
@@ -68,6 +68,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I finished my PhD degree in the [Natural Language Processing Lab](http://u.cs.biu.ac.il/~nlp/) at [Bar-Ilan University](http://cs.biu.ac.il), under the supervision of [Prof. Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/). I work as a Research Scientist at [BeyondMinds](https://beyondminds.ai).
+I finished my PhD degree in the [Natural Language Processing Lab](http://u.cs.biu.ac.il/~nlp/) at [Bar-Ilan University](http://cs.biu.ac.il), under the supervision of [Prof. Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/). I work as a Senior Applied Researcher at [eBay](https://www.ebay.com).
 
 My interests include applied Computational Linguistics and Machine Learning.
