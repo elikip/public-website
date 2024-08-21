@@ -19,6 +19,7 @@ bio: My research interests include computational linguistics and applied machine
 interests:
 - Artificial Intelligence
 - Computational Linguistics
+- Recommender Systems
 - Machine Learning
 
 education:
@@ -70,4 +71,4 @@ user_groups:
 ---
 I finished my PhD degree in the [Natural Language Processing Lab](http://u.cs.biu.ac.il/~nlp/) at [Bar-Ilan University](http://cs.biu.ac.il), under the supervision of [Prof. Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/). I work as a Senior Applied Researcher at [eBay](https://www.ebay.com).
 
-My interests include applied Computational Linguistics and Machine Learning.
+My interests include applied Computational Linguistics, Recommender Systems, and Machine Learning.
